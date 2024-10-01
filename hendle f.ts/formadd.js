@@ -21,4 +21,9 @@ function formSend(event) {
         weight: weight,
      };
      console.log(data);
+<<<<<<< HEAD
     };
+=======
+    };
+
+>>>>>>> a2c9c9574be9d5142df684d3a4f7d2ff4355bed6
