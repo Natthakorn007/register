@@ -21,5 +21,4 @@ function formSend(event) {
         weight: weight,
      };
      console.log(data);
-    };
     }
